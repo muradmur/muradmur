@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="100"/>
+</div>
 <!--
 **c0de-Mach1ne/c0de-Mach1ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
