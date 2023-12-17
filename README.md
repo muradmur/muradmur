@@ -4,9 +4,4 @@ I am a Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: I’m currently learning Android development
 
-<a href="https://github.com/muradmur">
-  <img align="center" 
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=muradmur&layout=compact" />
-</a>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muradmur&theme=dark&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats)
